@@ -1,0 +1,726 @@
+#EXTINF:-1,UK : Animal Planet? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20855.ts
+#EXTINF:-1,UK : Boomerang? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20856.ts
+#EXTINF:-1,UK : BT Sport 1? FHD 50FPS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20861.ts
+#EXTINF:-1,UK : BT Sport 3? FHD 50FPS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20863.ts
+#EXTINF:-1,UK : BT Sport ESPN? FHD 50FPS
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20864.ts
+#EXTINF:-1,UK : Cartoon Network? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20865.ts
+#EXTINF:-1,UK : Dave? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20873.ts
+#EXTINF:-1,UK : Discovery Channel? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20874.ts
+#EXTINF:-1,UK : Discovery Channel? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20875.ts
+#EXTINF:-1,UK : Discovery History +1?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20876.ts
+#EXTINF:-1,UK : Horse & Country TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20883.ts
+#EXTINF:-1,UK : iON TV?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20885.ts
+#EXTINF:-1,UK : BBC Two Northern Ireland?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20886.ts
+#EXTINF:-1,UK : MUTV? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20888.ts
+#EXTINF:-1,UK : NDTV 24x7? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20889.ts
+#EXTINF:-1,UK : Now 80s? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20890.ts
+#EXTINF:-1,UK : PBS America?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20893.ts
+#EXTINF:-1,IRE | RTE News Now? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20897.ts
+#EXTINF:-1,UK : Sky Replay? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20904.ts
+#EXTINF:-1,UK : STV? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20909.ts
+#EXTINF:-1,UK : Talking Pictures? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20910.ts
+#EXTINF:-1,UK : Together TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20912.ts
+#EXTINF:-1,UK : BBC One? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20923.ts
+#EXTINF:-1,UK : Channel 5? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20924.ts
+#EXTINF:-1,UK : Channel 5? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20925.ts
+#EXTINF:-1,UK : GB News? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20928.ts
+#EXTINF:-1,UK : ITV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20929.ts
+#EXTINF:-1,UK : LFC TV? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20931.ts
+#EXTINF:-1,UK : LFC TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20932.ts
+#EXTINF:-1,UK : Sky Cinema Action? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20934.ts
+#EXTINF:-1,UK : Sky Cinema Action? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20935.ts
+#EXTINF:-1,UK : Sky Cinema Animation? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20936.ts
+#EXTINF:-1,UK : Sky Cinema Animation? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20937.ts
+#EXTINF:-1,UK : Sky Cinema Comedy? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20938.ts
+#EXTINF:-1,UK : Sky Cinema Drama? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20939.ts
+#EXTINF:-1,UK : Sky Cinema Drama? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20940.ts
+#EXTINF:-1,UK : Sky Cinema Family? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20941.ts
+#EXTINF:-1,UK : Sky Cinema Family? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20942.ts
+#EXTINF:-1,UK : Sky Cinema Hits? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20943.ts
+#EXTINF:-1,UK : Sky Cinema Hits? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20944.ts
+#EXTINF:-1,UK : Sky Cinema Premiere? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20945.ts
+#EXTINF:-1,UK : Sky Cinema Premiere? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20946.ts
+#EXTINF:-1,UK : Sky Cinema Premiere? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20947.ts
+#EXTINF:-1,UK : Sky Cinema Sci-fi & Horror? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20948.ts
+#EXTINF:-1,UK : Sky Cinema Select? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20949.ts
+#EXTINF:-1,UK : Sky Cinema Select? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20950.ts
+#EXTINF:-1,UK : Sky Cinema Select? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20951.ts
+#EXTINF:-1,UK : Sky Cinema Thriller? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20952.ts
+#EXTINF:-1,UK : Sky Cinema Thriller? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20953.ts
+#EXTINF:-1,UK : Sky Cinema Animation? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20954.ts
+#EXTINF:-1,UK : Sky Cinema Comedy? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20955.ts
+#EXTINF:-1,UK : Sky Cinema Greats? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20956.ts
+#EXTINF:-1,UK : Sky Sports Action? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20957.ts
+#EXTINF:-1,UK : Sky Sports Action? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20958.ts
+#EXTINF:-1,UK : Sky Sports Arena? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20959.ts
+#EXTINF:-1,UK : Sky Sports Cricket? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20963.ts
+#EXTINF:-1,UK : Sky Sports Cricket? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20964.ts
+#EXTINF:-1,UK : Sky Sports F1? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20965.ts
+#EXTINF:-1,UK : Sky Sports F1? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20966.ts
+#EXTINF:-1,UK : Sky Sports F1? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20967.ts
+#EXTINF:-1,UK : Sky Sports Football? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20968.ts
+#EXTINF:-1,UK : Sky Sports Football? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20969.ts
+#EXTINF:-1,UK : Sky Sports Football? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20970.ts
+#EXTINF:-1,UK : Sky Sports Golf? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20971.ts
+#EXTINF:-1,UK : Sky Sports Golf? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20972.ts
+#EXTINF:-1,UK : Sky Sports Golf? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20973.ts
+#EXTINF:-1,UK : Sky Sports Main Event? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20974.ts
+#EXTINF:-1,UK : Sky Sports Main Event ? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20975.ts
+#EXTINF:-1,UK : Sky Sports Mix? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20976.ts
+#EXTINF:-1,UK : Sky Sports Mix? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20977.ts
+#EXTINF:-1,UK : Sky Sports News? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20978.ts
+#EXTINF:-1,UK : Sky Sports Premier League ? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20979.ts
+#EXTINF:-1,UK : Sky Sports Premier League? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20980.ts
+#EXTINF:-1,UK : Sky Sports Racing? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20981.ts
+#EXTINF:-1,UK : Yesterday? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20982.ts
+#EXTINF:-1,UK : Channel 4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20983.ts
+#EXTINF:-1,UK : Comedy Central? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20984.ts
+#EXTINF:-1,UK : Eurosport 1? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20985.ts
+#EXTINF:-1,UK : Eurosport 1? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20986.ts
+#EXTINF:-1,UK : Eurosport 2? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20987.ts
+#EXTINF:-1,UK : Gold? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20988.ts
+#EXTINF:-1,UK : ITV 2? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20989.ts
+#EXTINF:-1,UK : ITV 3? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20990.ts
+#EXTINF:-1,UK : Sky Arts? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20991.ts
+#EXTINF:-1,UK : Sky Atlantic? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20992.ts
+#EXTINF:-1,UK : 4Seven? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20994.ts
+#EXTINF:-1,UK : 4Seven ? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20995.ts
+#EXTINF:-1,UK : 5Select? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20996.ts
+#EXTINF:-1,UK : Sky Atlantic? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20997.ts
+#EXTINF:-1,UK : 5 Star? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20998.ts
+#EXTINF:-1,UK : 5 Star +1?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20999.ts
+#EXTINF:-1,UK : 5 USA? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21000.ts
+#EXTINF:-1,UK : 5 USA +1?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21001.ts
+#EXTINF:-1,UK : Al Jazeera English? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21002.ts
+#EXTINF:-1,UK : Alibi? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21004.ts
+#EXTINF:-1,UK : Alibi? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21005.ts
+#EXTINF:-1,UK : Animal Planet? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21009.ts
+#EXTINF:-1,UK : Animal Planet +1?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21010.ts
+#EXTINF:-1,UK : Baby TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21011.ts
+#EXTINF:-1,UK : BBC One Northern Ireland?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21014.ts
+#EXTINF:-1,UK : BBC One Scotland?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21015.ts
+#EXTINF:-1,UK : BBC One? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21016.ts
+#EXTINF:-1,UK : BBC One Wales?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21017.ts
+#EXTINF:-1,UK : BBC Two Wales?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21018.ts
+#EXTINF:-1,UK : BBC One Oxford?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21019.ts
+#EXTINF:-1,UK : BBC Four? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21020.ts
+#EXTINF:-1,UK : BBC Four? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21021.ts
+#EXTINF:-1,UK : BBC News? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21022.ts
+#EXTINF:-1,UK : BBC News? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21023.ts
+#EXTINF:-1,UK : BBC One Channel Islands?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21024.ts
+#EXTINF:-1,UK : BBC One? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21025.ts
+#EXTINF:-1,UK : BBC Parliament? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21026.ts
+#EXTINF:-1,UK : BBC Scotland? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21027.ts
+#EXTINF:-1,UK : CBBC? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21028.ts
+#EXTINF:-1,UK : CBBC? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21029.ts
+#EXTINF:-1,UK : BBC Two? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21030.ts
+#EXTINF:-1,UK : BBC World News? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21031.ts
+#EXTINF:-1,UK : Travel XP? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21032.ts
+#EXTINF:-1,UK : Blaze? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21033.ts
+#EXTINF:-1,UK : Boomerang? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21034.ts
+#EXTINF:-1,UK : Box Hits? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21035.ts
+#EXTINF:-1,UK : Cinebox Blockbuster? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21038.ts
+#EXTINF:-1,UK : Cinebox Classics? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21039.ts
+#EXTINF:-1,UK : Cinebox Comedy? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21040.ts
+#EXTINF:-1,UK : Cinebox Cult? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21041.ts
+#EXTINF:-1,UK : Cinebox Family? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21042.ts
+#EXTINF:-1,UK : BT Sport 1? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21046.ts
+#EXTINF:-1,UK : BT Sport 1? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21047.ts
+#EXTINF:-1,UK : BT Sport 1? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21048.ts
+#EXTINF:-1,UK : BT Sport 2? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21049.ts
+#EXTINF:-1,UK : BT Sport 3? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21050.ts
+#EXTINF:-1,UK : BT Sport 3? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21051.ts
+#EXTINF:-1,UK : BT Sport ESPN? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21053.ts
+#EXTINF:-1,UK : BT Sport ESPN? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21054.ts
+#EXTINF:-1,UK : BT Sport Extra 3? (Event Only)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21057.ts
+#EXTINF:-1,UK : BT Sport Extra 4? (Event Only)
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21058.ts
+#EXTINF:-1,UK : Cartoonito? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21061.ts
+#EXTINF:-1,UK : CBBC? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21062.ts
+#EXTINF:-1,UK : Cbeebies? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21063.ts
+#EXTINF:-1,UK : CBS Drama? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21064.ts
+#EXTINF:-1,UK : Comedy Central? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21065.ts
+#EXTINF:-1,UK : CBS Justice? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21066.ts
+#EXTINF:-1,UK : CBS Reality? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21067.ts
+#EXTINF:-1,UK : CGTN Documentary? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21068.ts
+#EXTINF:-1,UK : Challenge? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21069.ts
+#EXTINF:-1,UK : Challenge? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21070.ts
+#EXTINF:-1,UK : Channel 4? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21071.ts
+#EXTINF:-1,UK : Channel 4? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21072.ts
+#EXTINF:-1,UK : Channel 5? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21073.ts
+#EXTINF:-1,UK : CITV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21074.ts
+#EXTINF:-1,UK : CNBC Europe? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21075.ts
+#EXTINF:-1,UK : CNN International? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21076.ts
+#EXTINF:-1,UK : CNN? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21077.ts
+#EXTINF:-1,UK : Colors? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21078.ts
+#EXTINF:-1,UK : Comedy Central Extra? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21079.ts
+#EXTINF:-1,UK : Comedy Central? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21080.ts
+#EXTINF:-1,UK : Create & Craft? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21082.ts
+#EXTINF:-1,UK : Create & Craft? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21083.ts
+#EXTINF:-1,UK : Dave? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21085.ts
+#EXTINF:-1,UK : Dave Ja Vu?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21086.ts
+#EXTINF:-1,UK : Discovery +1?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21087.ts
+#EXTINF:-1,UK : Discovery Channel? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21088.ts
+#EXTINF:-1,UK : Discovery History? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21089.ts
+#EXTINF:-1,UK : Discovery Science? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21090.ts
+#EXTINF:-1,UK : Discovery Turbo? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21091.ts
+#EXTINF:-1,UK : Sky Cinema Sci-fi & Horror? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21092.ts
+#EXTINF:-1,UK : Bloomberg TV EMEA? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21094.ts
+#EXTINF:-1,UK : The Box? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21095.ts
+#EXTINF:-1,UK : DMAX? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21097.ts
+#EXTINF:-1,UK : Drama? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21098.ts
+#EXTINF:-1,UK : E! ? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21099.ts
+#EXTINF:-1,UK : E4? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21100.ts
+#EXTINF:-1,UK : Eden? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21102.ts
+#EXTINF:-1,IRE | Eir Sport 1? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21103.ts
+#EXTINF:-1,IRE | Eir Sport 1? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21104.ts
+#EXTINF:-1,IRE | Eir Sport 2? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21106.ts
+#EXTINF:-1,UK : Eman Channel? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21107.ts
+#EXTINF:-1,UK : Eurosport 1? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21110.ts
+#EXTINF:-1,UK : Eurosport 2? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21111.ts
+#EXTINF:-1,UK : Film4? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21114.ts
+#EXTINF:-1,UK : Food Network? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21117.ts
+#EXTINF:-1,UK : S4C? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21119.ts
+#EXTINF:-1,UK : Ginx eSports TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21121.ts
+#EXTINF:-1,UK : Gold? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21123.ts
+#EXTINF:-1,UK : Gold? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21124.ts
+#EXTINF:-1,UK : Horror Channel? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21129.ts
+#EXTINF:-1,UK : Investigation Discovery? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21130.ts
+#EXTINF:-1,UK : Investigation Discovery? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21131.ts
+#EXTINF:-1,UK : ITV 2? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21133.ts
+#EXTINF:-1,UK : ITV 3? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21134.ts
+#EXTINF:-1,UK : ITV 4? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21135.ts
+#EXTINF:-1,UK : ITV Be? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21136.ts
+#EXTINF:-1,UK : ITV? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21139.ts
+#EXTINF:-1,UK : ITV London?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21140.ts
+#EXTINF:-1,UK : ITV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21141.ts
+#EXTINF:-1,UK : ITV Be? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21142.ts
+#EXTINF:-1,UK : Kiss TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21143.ts
+#EXTINF:-1,UK : London Live? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21145.ts
+#EXTINF:-1,UK : Madani Channel? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21146.ts
+#EXTINF:-1,UK : Magic TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21147.ts
+#EXTINF:-1,UK : More4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21148.ts
+#EXTINF:-1,UK : MTV Classic? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21149.ts
+#EXTINF:-1,UK : MTV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21150.ts
+#EXTINF:-1,UK : MTV Hits? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21151.ts
+#EXTINF:-1,UK : MTV Music? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21152.ts
+#EXTINF:-1,UK : MTV 90s? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21153.ts
+#EXTINF:-1,UK : MUTV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21154.ts
+#EXTINF:-1,UK : MUTV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21155.ts
+#EXTINF:-1,UK : National Geographic? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21156.ts
+#EXTINF:-1,UK : Eden? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21157.ts
+#EXTINF:-1,UK : Nat Geo Wild? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21158.ts
+#EXTINF:-1,UK : Boomerang? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21161.ts
+#EXTINF:-1,UK : Nickelodeon? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21163.ts
+#EXTINF:-1,UK : Nicktoons? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21164.ts
+#EXTINF:-1,UK : Now 90s? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21165.ts
+#EXTINF:-1,UK : Paramount Network? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21166.ts
+#EXTINF:-1,UK : Pick? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21167.ts
+#EXTINF:-1,UK : POP? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21168.ts
+#EXTINF:-1,UK : POP Max? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21169.ts
+#EXTINF:-1,UK : Quest? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21176.ts
+#EXTINF:-1,UK : Quest Red? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21177.ts
+#EXTINF:-1,UK : QVC? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21179.ts
+#EXTINF:-1,UK : QVC Extra? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21181.ts
+#EXTINF:-1,UK : Racing TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21183.ts
+#EXTINF:-1,UK : Racing TV? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21184.ts
+#EXTINF:-1,UK : MotorRacing? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21185.ts
+#EXTINF:-1,UK : Racing TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21186.ts
+#EXTINF:-1,UK : Really? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21187.ts
+#EXTINF:-1,IRE | RTE Two? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21190.ts
+#EXTINF:-1,UK : S4C? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21194.ts
+#EXTINF:-1,UK : E! ? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21195.ts
+#EXTINF:-1,UK : Sky Arts? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21196.ts
+#EXTINF:-1,UK : Sky Arts? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21197.ts
+#EXTINF:-1,UK : Sky Atlantic? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21198.ts
+#EXTINF:-1,UK : Sky Documentaries? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21199.ts
+#EXTINF:-1,UK : W? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21203.ts
+#EXTINF:-1,UK : Sky News? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21206.ts
+#EXTINF:-1,UK : Sky News? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21207.ts
+#EXTINF:-1,UK : Sky Max? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21208.ts
+#EXTINF:-1,UK : Sky Max? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21209.ts
+#EXTINF:-1,UK : Sky Max? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21210.ts
+#EXTINF:-1,UK : Sky Witness? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21219.ts
+#EXTINF:-1,UK : Sky Witness? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21220.ts
+#EXTINF:-1,UK : Sky Witness? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21221.ts
+#EXTINF:-1,UK : Sony TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21229.ts
+#EXTINF:-1,UK : TRT World? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21230.ts
+#EXTINF:-1,UK : Utsav Gold? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21231.ts
+#EXTINF:-1,UK : SyFy? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21232.ts
+#EXTINF:-1,UK : TCM? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21234.ts
+#EXTINF:-1,IRE | TG4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21235.ts
+#EXTINF:-1,UK : Tiny POP? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21237.ts
+#EXTINF:-1,UK : TLC? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21238.ts
+#EXTINF:-1,UK : TLC? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21239.ts
+#EXTINF:-1,UK : TLC? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21240.ts
+#EXTINF:-1,UK : Travel Channel? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21241.ts
+#EXTINF:-1,UK : UFC Fight Pass? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21242.ts
+#EXTINF:-1,UK : UFC Fight Pass? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21243.ts
+#EXTINF:-1,IRE | UTV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21245.ts
+#EXTINF:-1,IRE | UTV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21246.ts
+#EXTINF:-1,UK : MTV 80s? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21247.ts
+#EXTINF:-1,UK : Travel XP? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21248.ts
+#EXTINF:-1,UK : W? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21253.ts
+#EXTINF:-1,UK : WWE Raw Network? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21255.ts
+#EXTINF:-1,UK : ZEE TV? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21256.ts
+#EXTINF:-1,UK : Utsav Bharat? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21257.ts
+#EXTINF:-1,UK : UTV?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21259.ts
+#EXTINF:-1,UK : Cartoon Network? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21266.ts
+#EXTINF:-1,UK : Cbeebies? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21267.ts
+#EXTINF:-1,UK : POP +1? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21268.ts
+#EXTINF:-1,UK : Sky History? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21270.ts
+#EXTINF:-1,UK : SyFy? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21271.ts
+#EXTINF:-1,UK : Nat Geo Wild? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21272.ts
+#EXTINF:-1,UK : National Geographic? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21273.ts
+#EXTINF:-1,UK : Paramount Network? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21274.ts
+#EXTINF:-1,UK : Quest? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21275.ts
+#EXTINF:-1,UK : SyFy? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21276.ts
+#EXTINF:-1,UK : TCM? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21277.ts
+#EXTINF:-1,UK : W? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21278.ts
+#EXTINF:-1,UK : Sky Cinema Greats? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21279.ts
+#EXTINF:-1,UK : Sky Sports News ? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21280.ts
+#EXTINF:-1,UK : Sky Sports Premier League? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21281.ts
+#EXTINF:-1,UK : Dave? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21282.ts
+#EXTINF:-1,UK : ITV 4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21283.ts
+#EXTINF:-1,UK : ITV 2? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21284.ts
+#EXTINF:-1,UK : ITV 3? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21285.ts
+#EXTINF:-1,UK : E4? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21286.ts
+#EXTINF:-1,UK : E4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21287.ts
+#EXTINF:-1,UK : More4? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21288.ts
+#EXTINF:-1,UK : More4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21289.ts
+#EXTINF:-1,UK : Quest? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21290.ts
+#EXTINF:-1,UK : BBC One West Midlands?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21291.ts
+#EXTINF:-1,UK : BBC Alba? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21293.ts
+#EXTINF:-1,UK : Sky Cinema Comedy? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21296.ts
+#EXTINF:-1,UK : Sky Comedy? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21297.ts
+#EXTINF:-1,UK : Film4? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21299.ts
+#EXTINF:-1,UK : Film4? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21300.ts
+#EXTINF:-1,UK : BT Sport 3? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21301.ts
+#EXTINF:-1,UK : BT Sport 2? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21302.ts
+#EXTINF:-1,UK : Sky Sports Cricket? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21303.ts
+#EXTINF:-1,UK : Sky Sports News? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21304.ts
+#EXTINF:-1,UK : Sky Sports Racing? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21305.ts
+#EXTINF:-1,UK : Sky Sports Racing? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21306.ts
+#EXTINF:-1,UK : Eurosport 2? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21334.ts
+#EXTINF:-1,UK : Cartoon Network? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21336.ts
+#EXTINF:-1,UK : MTV Base? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21337.ts
+#EXTINF:-1,UK : Clubland TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21339.ts
+#EXTINF:-1,UK : Afrobeats 24/7? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21340.ts
+#EXTINF:-1,UK : TBN? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21343.ts
+#EXTINF:-1,UK : Daystar? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21344.ts
+#EXTINF:-1,UK : Inspiration TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21345.ts
+#EXTINF:-1,UK : Akaal Channel? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21377.ts
+#EXTINF:-1,IRE | Eir Sport 1? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21385.ts
+#EXTINF:-1,UK : Edge Sport? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21387.ts
+#EXTINF:-1,UK : Arise News? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21398.ts
+#EXTINF:-1,UK : Kerrang!? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21401.ts
+#EXTINF:-1,UK : Court TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21403.ts
+#EXTINF:-1,UK : Arirang? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21404.ts
+#EXTINF:-1,UK : WION TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21405.ts
+#EXTINF:-1,UK : TV Warehouse? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21408.ts
+#EXTINF:-1,UK : Sky Sports NFL? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21411.ts
+#EXTINF:-1,UK : Sky Sports Mix? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21412.ts
+#EXTINF:-1,UK : BT Sport 2? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21413.ts
+#EXTINF:-1,UK : BT Sport ESPN? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21414.ts
+#EXTINF:-1,UK : Sky Sports Arena? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21415.ts
+#EXTINF:-1,UK : BBC Scotland? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21417.ts
+#EXTINF:-1,UK : BBC News? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21418.ts
+#EXTINF:-1,UK : ITV 3 +1 ? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21419.ts
+#EXTINF:-1,UK : S4C? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21421.ts
+#EXTINF:-1,UK : Horror Channel +1 ?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21422.ts
+#EXTINF:-1,UK : Nat Geo Wild? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21423.ts
+#EXTINF:-1,UK : Now 70s? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21424.ts
+#EXTINF:-1,UK : Sky Showcase? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21426.ts
+#EXTINF:-1,UK : God TV? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21429.ts
+#EXTINF:-1,UK : BBC Two? HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21432.ts
+#EXTINF:-1,UK : BBC Two? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21433.ts
+#EXTINF:-1,UK : Cinebox Greats? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21436.ts
+#EXTINF:-1,UK : Cinebox Horror? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21437.ts
+#EXTINF:-1,UK : Cinebox Musical? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21438.ts
+#EXTINF:-1,UK : Cinebox Mystery? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21439.ts
+#EXTINF:-1,UK : Cinebox Premiere? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21440.ts
+#EXTINF:-1,UK : Cinebox Romance? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21441.ts
+#EXTINF:-1,UK : Cinebox Sci-Fi? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21442.ts
+#EXTINF:-1,UK : Cinebox Western? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21443.ts
+#EXTINF:-1,UK : Cinebox Hits? FH
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21444.ts
+#EXTINF:-1,UK : Cinebox Thriller? FHD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21445.ts
+#EXTINF:-1,UK : Sky Sports Arena? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21446.ts
+#EXTINF:-1,UK : Yesterday +1 ?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21448.ts
+#EXTINF:-1,UK : Pick +1 ?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21462.ts
+#EXTINF:-1,UK : National Geographic? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21463.ts
+#EXTINF:-1,UK : Love Nature ? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21478.ts
+#EXTINF:-1,UK : Docubox: 7News Spotlight?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21479.ts
+#EXTINF:-1,UK : Docubox: All Documentary?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21480.ts
+#EXTINF:-1,UK : Docubox: Discovery?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21481.ts
+#EXTINF:-1,UK : Docubox: DW Documentary?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21482.ts
+#EXTINF:-1,UK : Docubox: Free Documentary?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21483.ts
+#EXTINF:-1,UK : Docubox: Free Documentary Anilams?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21484.ts
+#EXTINF:-1,UK : Docubox: Nat Geo?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21487.ts
+#EXTINF:-1,UK : Docubox: Nat Geo Wild?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21488.ts
+#EXTINF:-1,UK : LFC TV? SD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21495.ts
+#EXTINF:-1,BBC One South East ?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21498.ts
+#EXTINF:-1,UK : BBC One South ?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21499.ts
+#EXTINF:-1,UK : BBC One London?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21507.ts
+#EXTINF:-1,UK : BBC Parliament?
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/21508.ts
